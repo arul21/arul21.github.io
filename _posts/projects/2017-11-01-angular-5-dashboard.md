@@ -14,6 +14,6 @@ author: khairul baharuddin
 externalLink: false
 ---
 
-Aplication in construction
+Application in construction
 ---
 Go to my profile in [github](https://github.com/arul21).
