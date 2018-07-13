@@ -1,0 +1,77 @@
+# main text of home
+name: Khairul Baharuddin
+nameAlt: arul
+bio: Desarrollador web y apasionado del ecosistema JavaScript
+bio-en: Hey, I'm web developer and apasionate of ecosystem JavaScript
+
+# twitter summary info
+description: A blog about technology and stuff related
+
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpg
+
+url: http://arul21.github.io
+# your url: http://USERNAME.github.io
+
+permalink: /:title/
+
+# routes to images
+images: 
+  bootstrap: /assets/images/blog/bootstrap.png
+
+# if you don't have any of social below, comment the line
+twitter: djaduls
+instagram: djaduls
+linkedin: khairulbaharuddin
+# youtube: myyoutube
+github: arul21
+# stackoverflow: 7044681/mystackoverflow
+# medium: medium
+email: arul.21@hotmail.com
+
+authors:
+  Khairul B:
+    name: Khairul Baharuddin
+    bio: A Man who travels the world of programming
+    external-image: false
+    picture: assets/images/profile.jpg
+    twitter: djaduls
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+jekyll-mentions:
+  base_url: https://github.com
