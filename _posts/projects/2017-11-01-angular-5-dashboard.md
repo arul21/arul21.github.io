@@ -4,7 +4,7 @@ layout: post
 date: 2017-11-12
 tag: angular
 languages:
-- español
+- indonesia
 - english
 headerImage: true
 projects: true
